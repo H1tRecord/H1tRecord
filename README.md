@@ -1,32 +1,44 @@
-# Hi there, I'm HitRecord! 👋
+# Hi there, I'm [HitRecord!](https://h1trecord.github.io) 👋  
 
-I'm an aspiring developer from the Philippines who loves coding and creating innovative projects. I'm always eager to learn new technologies and improve my skills.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+HitRecord!;console.log(%22Hello+World!%22);Keep+Learning+and+Building!)](https://h1trecord.github.io)
+
+[![](https://img.shields.io/badge/Portfolio-H1tRecord-brightgreen)](https://h1trecord.github.io)
+[![](https://img.shields.io/badge/Twitter-@HitRedcord-blue)](https://twitter.com/HitRedcord)
+[![](https://img.shields.io/badge/Discord-HitRecord-%23ff0080)](https://discord.com)
+[![](https://img.shields.io/badge/Email-kjainfotech@gmail.com-yellow)](mailto:kjainfotech@gmail.com)
+
+---
+
+### 🚀 Skills & Tools
+- **Languages**: Python, HTML, PHP, SQL
+- **Frameworks & Tools**: Ren'Py, Figma, Git, VS Code
+- **Other Skills**: UI/UX Design, Creative Writing
 
 ---
 
 ### 📊 GitHub Stats
 
-![H1tRecord's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H1tRecord&show_icons=true&theme=radical)
+<a href="https://github.com/H1tRecord?tab=repositories">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=H1tRecord&count_private=true&show_icons=true&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>&nbsp;
 
-![H1tRecord's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H1tRecord&layout=compact&theme=radical)
-
----
-
-### ☕ Support My Journey
-
-If you enjoy my work and want to fuel my creativity, consider buying me a coffee on Ko-fi!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat&logo=ko-fi)](https://ko-fi.com/your_kofi_profile)
+<a href="https://github.com/H1tRecord">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1tRecord&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
 
 ---
 
-### 🤝 Connect with Me
-
-- 🐦 [Twitter](https://twitter.com/HitRedcord)
-- 💬 Discord: HitRecord
-- 📧 [Email Me](mailto:kjainfotech@gmail.com)
-- 💻 [GitHub](https://github.com/H1tRecord)
+### 🛠️ Projects & Links
+- [Ren'Py Game Development](https://h1trecord.github.io/renpy)
+- [GitHub Profile](https://github.com/H1tRecord)
+- [Personal Portfolio](https://h1trecord.github.io)
 
 ---
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions!
+### 🤝 Connect With Me
+- 🐦 [Twitter](https://twitter.com/HitRedcord)  
+- 💬 Discord: HitRecord  
+- 📧 [Email Me](mailto:kjainfotech@gmail.com)  
+- 🌐 [Portfolio](https://h1trecord.github.io)
+
+---
