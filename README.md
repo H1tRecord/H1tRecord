@@ -28,13 +28,6 @@
 
 ---
 
-### 🛠️ Projects & Links
-- [Ren'Py Game Development](https://h1trecord.github.io/renpy)
-- [GitHub Profile](https://github.com/H1tRecord)
-- [Personal Portfolio](https://h1trecord.github.io)
-
----
-
 ### 🤝 Connect With Me
 - 🐦 [Twitter](https://twitter.com/HitRedcord)  
 - 💬 Discord: HitRecord  
