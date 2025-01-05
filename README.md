@@ -12,7 +12,7 @@
 ### 🚀 Skills & Tools
 - **Languages**: Python, HTML, PHP, SQL
 - **Frameworks & Tools**: Ren'Py, Figma, Git, VS Code
-- **Other Skills**: UI/UX Design, Creative Writing
+- **Other Skills**: UI/UX Design
 
 ---
 
