@@ -9,13 +9,6 @@
 
 ---
 
-### 🚀 Skills & Tools
-- **Languages**: Python, HTML, PHP, SQL
-- **Frameworks & Tools**: Ren'Py, Figma, Git, VS Code
-- **Other Skills**: UI/UX Design
-
----
-
 ### 📊 GitHub Stats
 
 <a href="https://github.com/H1tRecord?tab=repositories">
