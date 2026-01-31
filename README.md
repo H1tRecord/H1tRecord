@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+HitRecord!;console.log(%22Hello+World!%22);Keep+Learning+and+Building!)](https://h1trecord.github.io/Porfolio-Website)
 
 [![](https://img.shields.io/badge/Portfolio-H1tRecord-brightgreen)](https://h1trecord.github.io/Portfolio-Website)
-[![](https://img.shields.io/badge/Twitter-@HitRedcord-blue)](https://twitter.com/HitRedcord)
 [![](https://img.shields.io/badge/Discord-HitRecord-%23ff0080)](https://discord.com)
 [![](https://img.shields.io/badge/Email-kjainfotech@gmail.com-yellow)](mailto:kjainfotech@gmail.com)
 
@@ -20,7 +19,6 @@
 </a>
 
 ### 🤝 Connect With Me
-- 🐦 [Twitter](https://twitter.com/HitRedcord)  
 - 💬 Discord: HitRecord  
 - 📧 [Email Me](mailto:kjainfotech@gmail.com)  
 - 🌐 [Portfolio](https://h1trecord.github.io/Portfolio-Website)
